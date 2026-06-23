@@ -11,14 +11,15 @@ using System.Windows.Shapes;
 
 namespace WpfApp_AutoPackage
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
+        public new string Content { get; set; } = "Hello, World!";
+        public string Version { get; set; } = "Version:1.0.1";
         public MainWindow()
         {
             InitializeComponent();
+            ContentLable.Content = Content;
+            VersionLable.Content = Version;
         }
     }
 }
