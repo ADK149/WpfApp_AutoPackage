@@ -13,4 +13,8 @@
     <Title>Auto</Title>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release'">
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Version>0.1.0<Version>
+  </PropertyGroup>
 </Project>
