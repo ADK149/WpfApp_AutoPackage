@@ -9,7 +9,6 @@
     <FileVersion>1.0.3</FileVersion>
     <Company>Dswd</Company>
     <Authors>shibin</Authors>
-    <Version>1.0.3</Version>
     <Title>Auto</Title>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
   </PropertyGroup>
