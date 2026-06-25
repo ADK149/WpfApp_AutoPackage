@@ -1,1 +1,2 @@
 # WpfApp_AutoPackage
+NugetAutomaticPacagingTool文件夹里面是做好的自动打包工具
