@@ -1,0 +1,7 @@
+{
+	"target_branch": "dev",
+	"configuration":"Release",
+	"proj_path": "C:\\App\\WpfApp_AutoPackage\\WpfApp_AutoPackage\\WpfApp_AutoPackage.csproj",
+	"msbuild_path":"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin",
+	"nuget_source":""
+}
